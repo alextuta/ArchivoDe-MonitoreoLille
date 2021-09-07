@@ -1,0 +1,6 @@
+Launch serial_aggregator with exp_id==276414
+Experiment '276414/luna' is Running
+Running script: 'alex2.sh'
+Got kill signal, sending SIGTERM to script and waiting for return...
+Script returned: -15
+
